@@ -1,0 +1,1 @@
+I attended a meet up by clojure-bridge and here is my attempt at solving the assignments they had for us.
