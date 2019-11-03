@@ -34,4 +34,25 @@ true
 :something ; keyword
 (type :something)
 
+;;;;;;; Literal Collections
+
+; list
+'(1 2 3)
+(type '(1 2 3))
+
+; vector
+[1 2 3]
+(type [1 2 3])
+
+; set
+#{1 2 3}
+(type #{1 2 3})
+
+; map
+{:a 1 :b 2}
+(type {:a 1 :b 2})
+
+
+
+
 
